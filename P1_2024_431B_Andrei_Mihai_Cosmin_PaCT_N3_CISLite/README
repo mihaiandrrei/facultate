@@ -1,0 +1,1 @@
+This is my personal project for the CEF-Project subject. The project is an audio preamplifier, and I chose the following approach: two amplification stages, one common emitter, controlled by the current mirror, which effectively amplifies the signal, and another common collector-repeater stage, to separate the load from the amplifying stage. The PCB is made in SMD technology.
